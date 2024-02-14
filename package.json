@@ -1,0 +1,13 @@
+{
+  "name": "registro-de-datos",
+  "version": "1.0.0",
+  "description": "Ejemplo de registro de datos utilizando Node.js y SQLite",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.5-lts.1",
+    "sqlite3": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
